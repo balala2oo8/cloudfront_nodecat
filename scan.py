@@ -1,7 +1,7 @@
 # coding=utf-8
 import threading
 import requests
-import queue
+import Queue as queue
 import sys
 import re
 import os
